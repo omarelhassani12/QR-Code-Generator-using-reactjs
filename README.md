@@ -21,7 +21,7 @@ This project is a simple web application built with React.js that allows users t
 3. Use the "Download" button to save the generated QR code as a PNG file.
 
 ## Installation:
-1. Clone the repository: `git clone <repository-url>`
+1. Clone the repository: `git clone https://github.com/omarelhassani12/QR-Code-Generator-using-reactjs.git`
 2. Install dependencies: `npm install`
 3. Run the development server: `npm start`
 
